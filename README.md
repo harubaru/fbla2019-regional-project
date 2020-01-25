@@ -2,7 +2,7 @@
 Public Repo for FBLA 2019 regional game project.
 
 Controls:
-W = Up
-S = Down
-Space = Fire
-Escape = Quit
+W = Up  
+S = Down  
+Space = Fire  
+Escape = Quit  
