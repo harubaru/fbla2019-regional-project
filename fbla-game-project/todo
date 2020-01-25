@@ -1,0 +1,18 @@
+level system with scoreboard popping up at end of level
+documentation of copyrighted material, libraries
+post on github and write readme
+
+Enemies keep spawning until you get enough coins.
+If you get hit 3 times, you die and restart at level 1.
+Skeletons give 2 coins
+Ghosts give 1 coin
+
+Ghost - 2 hits to kill
+Skeleton - 3 hits to kill
+
+
+resources:
+https://ansimuz.itch.io/grotto-escape-chibi-monsters - Player and Monsters
+https://savvycow.itch.io/perfectpixelfruit - Level Objects
+https://ansimuz.itch.io/parallax-forest - Background
+https://www.raylib.com/ - Engine
